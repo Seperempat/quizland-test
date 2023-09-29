@@ -195,11 +195,9 @@
 
 /* CSS Anda */
 .custom-table {
-  width: 80%;
   font-size: 18px;
-
   border-collapse: collapse;
-  border: 1px solid #ddd;
+  border: 1px solid black;
 }
 
 .custom-header {
@@ -207,6 +205,7 @@
   color: #fff;
   padding: 10px;
   text-align: center;
+  width: 235px;
 }
 
 .custom-cell {

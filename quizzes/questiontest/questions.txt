@@ -10,7 +10,7 @@ a Physical fitness
 a Know your limits
 !
 
-q 1 metre is equivalent to:
+q 1 metre is equivalent to
 ac 3.28 feet
 a 3.0 feet
 a 2 feet 8 inches 
@@ -24,14 +24,14 @@ a High gain bronze
 a Stainless steel
 !
 
-q 1 cwt is equivalent to:
+q 1 cwt is equivalent to
 ac 50 kg
 a 25 kg
 a 100 kg 
 a 12500 kg
 !
 
-q 1 imperial Ton is equivalent to:
+q 1 imperial Ton is equivalent to
 a 2204 lbs
 ac 1016 Kg
 a 1000 Kg 
@@ -59,7 +59,7 @@ a To reduce the stress on the ferrules
 a For ease of storage allowing the sling to hang naturally 
 !
 
-q The formula for mechanical advantage is :
+q The formula for mechanical advantage is 
 a Effort  ˆ  Load 
 a Load x Weight
 a Time ˆ Effort
@@ -73,28 +73,28 @@ ac Resin
 a Cellulose
 !
 
-q The definition of ?work done? in mechanics, is:
+q The definition of ?work done? in mechanics, is
 a Load x Time 
 a Distance ˆ Load
 a Load ˆ Effort
 ac Force x Distance
 !
 
-q A track has a lifting appliance fitted to allow loads to be raised, lowered and travelled along is known as a:
+q A track has a lifting appliance fitted to allow loads to be raised, lowered and travelled along is known as a
 a Jib crane 
 a Winch track 
 a Light crane
 ac Runway 
 !
 
-q A dye penetrant test can detect:
+q A dye penetrant test can detect
 a The amount of carbon in steel
 ac Cracks on the surface of material
 a Faults deep below the surface of a material
 a Internal breaks in wire ropes
 !
 
-q A protective insert that is fitted to the eye of a wire rope sling leg at the time of manufacture is known as a:
+q A protective insert that is fitted to the eye of a wire rope sling leg at the time of manufacture is known as a
 a Band 
 a Ferrule
 ac Thimble

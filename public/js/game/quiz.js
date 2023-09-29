@@ -232,7 +232,7 @@ function GameWorld() {
       var types = ["official"];
 
       var names = {
-        official: "Official Participants",
+        official: "Quiz Participants",
         // unofficial: "Audience Participants",
       };
 
