@@ -1,0 +1,15 @@
+.counter__time {
+  position: fixed;
+  top: 2;
+  /* height: 70px; */
+  width: 100%;
+  background-color: #d8b4fe;
+  color: #7e22ce;
+  font-size: 24px;
+  border-radius: 0 0 24px 24px;
+  padding: 1rem 2rem;
+}
+.time__over {
+  color: #fb7185;
+}
+

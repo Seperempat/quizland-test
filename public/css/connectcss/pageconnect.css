@@ -1,0 +1,21 @@
+.container__wrapper {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  /* flex-direction: column; */
+}
+
+.container-top {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  margin: 4rem 0;
+}
+
+.container__admin__role {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  padding: 0 1.875rem;
+}

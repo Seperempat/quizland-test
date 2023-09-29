@@ -1,0 +1,175 @@
+.container__buttons {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+}
+
+.btn__default {
+  padding: 0.8rem 1.4rem;
+  border-radius: 0.45rem;
+  border: none;
+  font-weight: 400;
+  font-size: 16px;
+  margin-bottom: 12px;
+  white-space: normal;
+}
+
+.btn__default.btn_fill {
+  color: white;
+  background-color: #a855f7;
+  text-decoration: none;
+}
+.btn__default.btn_outlined {
+  border: solid 1px #a855f7;
+  color: #a855f7;
+  background-color: white;
+  text-decoration: none;
+}
+.btn__default.btn_leave {
+  background-color: white !important;
+  border-color: #f43f5e !important;
+  color: #f43f5e !important;
+  border-width: 1px !important;
+  border-style: solid !important;
+  text-decoration: none;
+}
+.btn__default.btn_showleaderboard {
+  background-color: #7c3aed !important;
+  color: #ffff !important;
+  text-decoration: none;
+}
+
+.btn__default.btn_test {
+  background-color: #7c3aed !important;
+  color: #ffff !important;
+  text-decoration: none;
+}
+
+.btn__default.btn_cancel {
+  background-color: #e2e8f0 !important;
+  color: #1e293b !important;
+  text-decoration: none;
+}
+
+.btn__default.btn_start {
+  background-color: #7c3aed !important;
+  color: #ffff !important;
+  text-decoration: none;
+}
+
+.btn__default.btn_end {
+  background-color: #7c3aed !important;
+  color: #ffff !important;
+  text-decoration: none;
+}
+
+.btn__default.btn_next {
+  background-color: #7c3aed !important;
+  color: #ffff !important;
+  text-decoration: none;
+}
+.button__input {
+  padding: 0.8rem 1.4rem;
+  border-radius: 0.45rem;
+  color: #9a3412;
+  background-color: #fb923c;
+  border: none;
+  width: 100%;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+/* responsive */
+@media screen and (max-width: 500px) {
+  .btn__default {
+    padding: 0.8rem 1.4rem;
+    border-radius: 0.45rem;
+    border: none;
+    font-weight: 400;
+    font-size: 9px;
+    margin-bottom: 0;
+    width: 100%;
+  }
+
+  .btn__default.btn_fill {
+    color: white;
+    background-color: #a855f7;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  .btn__default.btn_outlined {
+    border: solid 1px #a855f7;
+    color: #a855f7;
+    background-color: white;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  .btn__default.btn_leave {
+    background-color: white !important;
+    border-color: #f43f5e !important;
+    color: #f43f5e !important;
+    border-width: 1px !important;
+    border-style: solid !important;
+    text-decoration: none;
+    font-size: 12px;
+  }
+  .btn__default.btn_showleaderboard {
+    background-color: #7c3aed !important;
+    color: #ffff !important;
+    text-decoration: none;
+    font-size: 12px;
+  }
+
+  .btn__default.btn_test {
+    background-color: #7c3aed !important;
+    color: #ffff !important;
+    text-decoration: none;
+    font-size: 12px;
+  }
+
+  .btn__default.btn_cancel {
+    background-color: #e2e8f0 !important;
+    color: #1e293b !important;
+    text-decoration: none;
+    font-size: 12px;
+  }
+
+  .btn__default.btn_start {
+    background-color: #7c3aed !important;
+    color: #ffff !important;
+    text-decoration: none;
+    font-size: 12px;
+  }
+
+  .btn__default.btn_end {
+    background-color: #7c3aed !important;
+    color: #ffff !important;
+    text-decoration: none;
+    font-size: 12px;
+  }
+
+  .btn__default.btn_next {
+    background-color: #7c3aed !important;
+    color: #ffff !important;
+    text-decoration: none;
+    font-size: 12px;
+  }
+
+  .button__input {
+    padding: 0.8rem 1.4rem;
+    border-radius: 0.45rem;
+    color: #9a3412;
+    background-color: #fb923c;
+    border: none;
+    width: 100%;
+    font-weight: 600;
+    text-decoration: none;
+    font-size: 12px;
+  }
+}
+
+.buttons__validasi {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

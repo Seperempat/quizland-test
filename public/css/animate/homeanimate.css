@@ -1,0 +1,30 @@
+.animated_svg_btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.animated_svg_btn:hover {
+  animation-name: buttonShow;
+  animation-duration: 4s;
+}
+
+@keyframes buttonShow {
+  100% {
+    transform: translateX(300px) translateY(100px);
+  }
+}
+
+.svg__btn {
+  order: 2;
+  z-index: 1;
+}
+.home__role a {
+  display: block;
+  order: 1;
+  line-height: normal;
+  padding: 6px 14px;
+  background-color: green;
+  color: yellowgreen;
+  margin-right: -15px;
+}

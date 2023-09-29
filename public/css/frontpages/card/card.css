@@ -1,0 +1,22 @@
+.list__soal_card {
+  margin-top: 4rem;
+  padding: 2rem 3.5rem;
+  border-radius: 0.45rem;
+  border-width: 1;
+  background-color: #cbd5e1;
+  border-color: #94a3b8;
+}
+
+.list__soal_card a {
+  color: #000;
+  transition: all background-color color 0.5s;
+}
+
+.list__soal_card a:hover {
+  color: #78716c;
+}
+
+.list__soal_card:hover {
+  background-color: #d6d3d1;
+  color: #78716c;
+}

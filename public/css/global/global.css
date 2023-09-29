@@ -1,0 +1,21 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.bg-img {
+  background-image: url("/assets/img/dot-effect.png");
+  background-position: center;
+  background-size: cover;
+}
+
+body {
+  background-image: url("/assets/img/dot-effect-smalls.png");
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
+.wrapper {
+  height: 100vh;
+}

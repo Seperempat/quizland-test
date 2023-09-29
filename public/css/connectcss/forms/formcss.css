@@ -1,0 +1,103 @@
+.contianer__input {
+  height: auto;
+  padding: 2rem;
+  margin-bottom: 2rem;
+  border-radius: 0.45rem;
+  border: solid 1px #cbd5e1;
+  background-color: white;
+}
+
+.wrapper_role {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 100vh; */
+}
+
+.contianer__input h4 {
+  margin-bottom: 2rem;
+  color: #1e293b;
+}
+
+label {
+  font-size: 14px;
+  font-weight: 400;
+  color: #475569;
+}
+
+.container__form {
+  max-width: 560px;
+
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  width: 450px;
+
+  /* margin: 0 auto; */
+}
+
+.image__container {
+  width: fit-content;
+  height: auto;
+}
+
+img {
+  width: 100%;
+}
+
+@media screen and (max-width: 500px) {
+  .container__form .contianer__input {
+    width: 100%; /* Lebar penuh */
+    margin: 0 12px;
+  }
+  .contianer__input h4 {
+    margin-bottom: 2rem;
+    color: #1e293b;
+  }
+}
+
+.horizontal__line {
+  display: flex;
+  flex-direction: column; /* Menjadikan .horizontal__line sebagai container dengan flexbox */
+  align-items: center; /* Pusatkan elemen secara horizontal */
+  /* margin: 8px 0; */
+  width: 100%;
+  height: 40px;
+  position: relative;
+  margin-bottom: 12px;
+}
+
+.horizontal__line hr {
+  border: none;
+  border-top: solid 1px #cbd5e1;
+  width: 100%; /* Berikan panjang 100% agar mengisi seluruh lebar container */
+}
+
+.horizontal__line span {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: #fff;
+  padding: 0 4px;
+  text-align: center;
+  color: #475569;
+}
+
+@media screen and (max-width: 500px) {
+  .horizontal__line {
+    display: flex;
+    flex-direction: column; 
+    align-items: center;
+    width: 100%;
+    height: 40px;
+    position: relative;
+    margin-bottom: 0;
+  }
+  .horizontal__line span {
+    font-size: 10px;
+  }
+}

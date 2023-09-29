@@ -1,0 +1,137 @@
+[200~title Quiz National Equipments 20235
+img logistic.png
+admincode admin123
+quizcode 123456
+
+q Which of the following is not an important element of competency?
+a Experience
+ac Relevant engineering degree
+a Physical fitness 
+a Know your limits
+!
+
+q 1 metre is equivalent to:
+ac 3.28 feet
+a 3.0 feet
+a 2 feet 8 inches 
+a 3.52 feet
+!
+
+q An alloy containing nickel and cooper with small percentages of manganese and iron, is otherwise known as:
+a Spheroidal plastic
+ac Monel metal
+a High gain bronze
+a Stainless steel
+!
+
+q 1 cwt is equivalent to:
+ac 50 kg
+a 25 kg
+a 100 kg 
+a 12500 kg
+!
+
+q 1 imperial Ton is equivalent to:
+a 2204 lbs
+ac 1016 Kg
+a 1000 Kg 
+a 2204 Kg
+!
+
+q ACoPs are issued by:
+ac Relevant authorities with consent of a government official 
+a LEEA
+a Advisory councils
+a Equipment Manufacturers
+!
+
+q What type of force will be exerted on a lifting jack whilst under load?
+a Double shear 
+ac Compression
+a Tension 
+a Single shear
+!
+
+q What is the purpose of fitting a reeving thimble to a wire rope sling
+a All wire rope slings are required to be fitted with reeving thimbles
+ac To allow the sling to be used in choke hitch
+a To reduce the stress on the ferrules 
+a For ease of storage allowing the sling to hang naturally 
+!
+
+q The formula for mechanical advantage is :
+a Effort  ˆ  Load 
+a Load x Weight
+a Time ˆ Effort
+ac Load ˆ Effort
+!
+
+q Which of the following is a synthetic polymer?
+a Shellac
+a Bracken 
+ac Resin
+a Cellulose
+!
+
+q The definition of ?work done? in mechanics, is:
+a Load x Time 
+a Distance ˆ Load
+a Load ˆ Effort
+ac Force x Distance
+!
+
+q A track has a lifting appliance fitted to allow loads to be raised, lowered and travelled along is known as a:
+a Jib crane 
+a Winch track 
+a Light crane
+ac Runway 
+!
+
+q A dye penetrant test can detect:
+a The amount of carbon in steel
+ac Cracks on the surface of material
+a Faults deep below the surface of a material
+a Internal breaks in wire ropes
+!
+
+q A protective insert that is fitted to the eye of a wire rope sling leg at the time of manufacture is known as a:
+a Band 
+a Ferrule
+ac Thimble
+a Eye protection
+!
+
+q Approximately how much Chromium is added to stainless steel to improve it's corrosion resistance?
+a 10%
+a 75%
+ac 12%
+a 14%
+!
+
+q What would you find fitted to ?carrier beams??
+ac Underslung crane tracks
+a Yard cranes 
+a Offshore containers 
+a Hand chain hoists
+!
+
+q Monel metal contains which other elements?
+ac Nickel, copper, manganese and iron
+a Copper, zinc, manganese and cedar
+a Aluminium, copper and manganese 
+a Argon, aluminium and zinc
+!
+
+q in the context of lifting equipment, what is a ?duty holder??
+a A lifting equipment inspectors work bench
+ac A person responsible for the lifting equipment that they own and use
+a A person is an organization who examines lifting equipment prior to initial use 
+a A Government agency who enforce health and safety law
+!
+
+q Which of the following is an impact test?
+a Competency test
+a Bend test
+ac Izod test
+a Brinnel test
+!
