@@ -312,9 +312,10 @@ function GameWorld() {
     $("#answer_status").html("");
     if (stateParams.pic != "")
       $("#question_area .pic").html(
-        "<img style='max-width: 500px; width:100%' src='" +
-          stateParams.pic +
-          "' />"
+        // "<img style='max-width: 500px; width:100%' src='" +
+        //   stateParams.pic +
+        //   "' />"
+        "<img class='image__quiz' src='" + stateParams.pic + "' />"
       );
     else $("#question_area .pic").html("");
 
@@ -333,11 +334,22 @@ function GameWorld() {
       var curLetter = String.fromCharCode(65 + i);
       var answerId = i + 1;
 
-      var $div = $("<div>", { answer_id: answerId })
+      // var $div = $("<div class='answer__container'>", { answer_id: answerId })
+      //   .addClass("answer_list")
+      //   .addClass(`answer_${answerId}`)
+      //   .addClass(`curLetter_${curLetter}`)
+      //   .append("<span/>")
+      //   .text(`${curLetter} ${answers[i]}`);
+
+      var $div = $("<div class='answer__container'>", { answer_id: answerId })
         .addClass("answer_list")
         .addClass(`answer_${answerId}`)
-        .append("<span/>")
-        .text(`${curLetter}. ${answers[i]}`);
+        .append(
+          $("<span/>")
+            .addClass(`curLetter_${curLetter} curLetter`)
+            .text(`${curLetter}`)
+        )
+        .append($("<span/>").text(` ${answers[i]}`));
 
       $div.click(function () {
         if (

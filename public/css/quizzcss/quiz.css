@@ -85,7 +85,7 @@
 }
 
 .answer__container {
-  font-size: 24px;
+  font-size: 22px;
 }
 
 .rank__status {
@@ -95,7 +95,7 @@
 .question {
   margin-top: 20px;
   white-space: normal;
-  font-size: 18px;
+  font-size: 24px;
 }
 
 .container__button_r {
@@ -109,7 +109,11 @@
   align-items: center;
   gap: 8px;
 }
-
+@media screen and (min-width: 530px), (max-width: 529px) {
+  .answer_list {
+    height: auto;
+  }
+}
 @media screen and (max-width: 529px) {
   .answers {
     grid-template-columns: auto;
@@ -151,9 +155,8 @@
     padding: 20px;
   }
 
-  .answer__container,
-  .timer {
-    font-size: 18px;
+  .answer__container {
+    font-size: 16px;
   }
 
   .rank__status {
@@ -193,7 +196,6 @@
 
 /* table */
 
-/* CSS Anda */
 .custom-table {
   font-size: 18px;
   border-collapse: collapse;
@@ -225,4 +227,36 @@
 
 .custom-gap-color:nth-child(odd) {
   background-color: #e9d5ff;
+}
+/* image quiz */
+
+.image__quiz {
+  max-width: 240px;
+  width: 100%;
+  aspect-ratio: 4/3;
+  object-fit: contain;
+}
+
+.curLetter {
+  background-color: #cbd5e1;
+  /* border-radius: 50%; */
+  border-radius: 100px;
+  padding: 8px;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 24px;
+  height: 35px;
+  width: 35px;
+  color: #020617;
+  line-height: 0;
+}
+
+@media screen and (max-width: 529px) {
+  .curLetter {
+    font-size: 16px;
+    height: 30px;
+    width: 30px;
+  }
 }

@@ -68,6 +68,7 @@ a For ease of storage allowing the sling to hang naturally
 !
 
 q The formula for mechanical advantage is? 
+img formula.jpeg
 a Effort  ˆ  Load 
 a Load x Weight
 a Time ˆ Effort
