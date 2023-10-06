@@ -319,7 +319,8 @@ function GameWorld() {
     else $("#question_area .pic").html("");
 
     $("#question_area .question").html(
-      stateParams.question + " (" + stateParams.marks + ")"
+      // stateParams.question + " (" + stateParams.marks + ")"
+      stateParams.question
     );
 
     var answers = stateParams.answers;
