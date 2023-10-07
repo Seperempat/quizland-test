@@ -1,150 +1,705 @@
-[200~title Quiz National Equipments 20235
+[100~Quiz 2023
 img logistic.png
 admincode admin123
 quizcode 123456
 
-q Which of the following is not an important element of competency?
-img competency.png
+
+q 1. Which of the following is not an important element of competency?
 a Experience
 ac Relevant engineering degree
 a Physical fitness 
 a Know your limits
 !
 
-q 1 metre is equivalent to?
-img satumeter.png
+q 2. 1 metre is equivalent to?
 ac 3.28 feet
 a 3.0 feet
 a 2 feet 8 inches 
 a 3.52 feet
 !
 
-q An alloy containing nickel and cooper with small percentages of manganese and iron, is otherwise known as?
-img alloy.png
+q 3. An alloy containing nickel and cooper with small percentages of manganese and iron, is otherwise known as?
 a Spheroidal plastic
 ac Monel metal
 a High gain bronze
 a Stainless steel
 !
 
-q 1 cwt is equivalent to?
-img cwt.png
+q 4. A 2-leg chain sling rated by the Trigonometric method is called as?
+ac 2 x WLL of single leg x cos β
+a 1.5 x WLL of single leg x cos β
+a 1.4 x WLL of single leg x cos β
+a 5 x WLL of single leg - cos β
+!
+
+q 5. 1 cwt is equivalent to?
 ac 50 kg
 a 25 kg
 a 100 kg 
 a 12500 kg
 !
 
-q 1 imperial Ton is equivalent to?
-img tons.png
+q 6. 1 imperial Ton is equivalent to?
 a 2204 lbs
 ac 1016 Kg
 a 1000 Kg 
 a 2204 Kg
 !
 
-q ACoPs are issued by?
-img acops.jpeg
+q 7. ACoPs are issued by?
 ac Relevant authorities with consent of a government official 
 a LEEA
 a Advisory councils
 a Equipment Manufacturers
 !
 
-q What type of force will be exerted on a lifting jack whilst under load?
-img jack.png
+q 8. What type of force will be exerted on a lifting jack whilst under load?
 a Double shear 
 ac Compression
 a Tension 
 a Single shear
 !
 
-q What is the purpose of fitting a reeving thimble to a wire rope sling?
-img rope.png
+q 9. What is the purpose of fitting a reeving thimble to a wire rope sling
 a All wire rope slings are required to be fitted with reeving thimbles
 ac To allow the sling to be used in choke hitch
 a To reduce the stress on the ferrules 
 a For ease of storage allowing the sling to hang naturally 
 !
 
-q The formula for mechanical advantage is? 
-img formula.jpeg
-a Effort  ˆ  Load 
+q 10. The formula for mechanical advantage is?
+a Effort ÷ Load 
 a Load x Weight
-a Time ˆ Effort
-ac Load ˆ Effort
+a Time ÷ Effort
+ac Load ÷ Effort
 !
 
-q Which of the following is a synthetic polymer?
+q 11. Which of the following is a synthetic polymer?
 a Shellac
 a Bracken 
 ac Resin
 a Cellulose
 !
 
-q The definition of work done in mechanics is?
-img work.png
+q 12. The definition of ?work done? in mechanics, is?
 a Load x Time 
-a Distance ˆ Load
-a Load ˆ Effort
+a Distance ÷ Load
+a Load ÷ Effort
 ac Force x Distance
 !
 
-q A track has a lifting appliance fitted to allow loads to be raised, lowered and travelled along is known as a?
+q 13. A track has a lifting appliance fitted to allow loads to be raised, lowered and travelled along is known as a?
 a Jib crane 
 a Winch track 
 a Light crane
 ac Runway 
 !
 
-q A dye penetrant test can detect?
+q 14. A dye penetrant test can detect?
 a The amount of carbon in steel
 ac Cracks on the surface of material
 a Faults deep below the surface of a material
 a Internal breaks in wire ropes
 !
 
-q A protective insert that is fitted to the eye of a wire rope sling leg at the time of manufacture is known as a?
+q 15. A protective insert that is fitted to the eye of a wire rope sling leg at the time of manufacture is known as a?
 a Band 
 a Ferrule
 ac Thimble
 a Eye protection
 !
 
-q Approximately how much Chromium is added to stainless steel to improve it's corrosion resistance?
-img steel.jpeg
+q 16. Approximately how much Chromium is added to stainless steel to improve it's corrosion resistance?
 a 10%
 a 75%
 ac 12%
 a 14%
 !
 
-q What would you find fitted to carrier beams?
+q 17. What would you find fitted to carrier beams?
 ac Underslung crane tracks
 a Yard cranes 
 a Offshore containers 
 a Hand chain hoists
 !
 
-q Monel metal contains which other elements?
-img metal.jpeg
+q 18. Monel metal contains which other elements?
 ac Nickel, copper, manganese and iron
 a Copper, zinc, manganese and cedar
 a Aluminium, copper and manganese 
 a Argon, aluminium and zinc
 !
 
-q in the context of lifting equipment, what is a duty holder?
+q 19. in the context of lifting equipment, what is a 'duty holder'?
 a A lifting equipment inspectors work bench
 ac A person responsible for the lifting equipment that they own and use
 a A person is an organization who examines lifting equipment prior to initial use 
 a A Government agency who enforce health and safety law
 !
 
-q Which of the following is an impact test?
+q 20. Which of the following is an impact test?
 a Competency test
-img test.png
 a Bend test
 ac Izod test
 a Brinnel test
+!
+
+q 21. An assembly of lifting devices, bridges, trolleys and tracks with their suspensions for lifting operations and usually manufactured from proprietary sections of steel is known as?
+a Conveyor system
+ac Light crane system
+a Offshore pedestal crane
+a Semi-portal crane
+!
+
+q 22. The maximum gross load that a lifting appliance can lift in any given configuration is known as?
+a Safe working load
+a Operational capacity
+ac Rated capacity 
+a Working load breaking point
+!
+
+q 23. On which of the following types of lifting equipment would you find a stripper?
+a Jaw winch
+ac Hand chain hoist 
+a Offshore pedestal crane
+a Pulley block
+!
+
+q 24. What is a materials Yield point in the context of tensile loading?
+a It is when a material is shortening in proportion to the applied load
+a It is the material ultimate fitness for purpose test
+a It is when a material actually breaks
+ac It is when a sudden permanent extension of the material takes place
+!
+
+q 25. In a lifting machine, what is the advantage of increasing the number of falls of lifting chain or wire rope lifting load?
+ac Increased mechanical advantage
+a Improved ED% rating of motors
+a Better strength 
+a Reduced weight
+!
+
+q 26. Grade 4 steel has a breaking strength of?
+ac 400N/mm²
+a 40 N/mm²
+a 40.4N/mm²
+a 3000N/m²
+!
+
+q 27. What is the purpose of the changeover lever featured on a lever hoist when it is in the neutral position?
+a It works as an emergency stop
+a It allows the user to lift the load with less effort
+a It allows the hoist to be dismantled for examination purposes 
+ac It allows the user to set the chain to the required length ready to lift
+!
+
+q 28. Grade M is the equivalent to grade?
+a 80
+a 60
+ac 40
+a T
+!
+
+q 29. The minimum load/force that can be read from a tensile load machine display, within the required accuracy, is known as?
+a The lower parameter base
+a The starting line
+a The limit of tensile calibration
+ac The lower limit of calibration
+!
+
+q 30. Which of the following is a measure of how well a material will resist being deformed from its original shape?
+a Ductility
+ac Strength 
+a Hammer point
+a Bend point
+!
+
+q 31. The procedure adopted by the manufacturer or Competent person to ensure that lifting equipment is to the required standard or specification, meets legal requirements and is safe to operate are known as?
+a Load testing
+a Destruction test
+a Competent proving
+ac verification
+!
+
+q 32. ISO 7500-1 has various classes or grades of machines. These are?
+ac 0.5, 1 and 2
+a 1,2 and 3
+a 0.5, 2 and 5
+a A, B and C
+!
+
+q 33. Why do offshore containers have pad eye lifting points?
+a So they can be lifted by container cranes
+ac So that a specifically designed lifting set may be used
+a Because they are more robust than other forms of lifting eye
+a To soften the landing when the container is grounded
+!
+
+q 34. Where might you find a 'turntable'?
+ac Light crane system
+a Hydraulic jack
+a Vacuum lifting device
+a Gantry crane
+!
+
+q 35. Which of the following must be fitted with a shackle to enable correct use?
+ac Dynamic eyebolt
+a Eyebolt with a link
+a Collared eyebolt
+a Bow nut
+!
+
+q 36. Where might you find a slewing swing jib crane installed?
+ac Maintenance workshops
+a SUV type recovery vehicles
+a Shipbuilding yards
+a Hospitals 
+!
+
+q 37. The specified load (mass or force) below which the item of equipment does not fail either by fracture or distorting to such an extent that the load is released, is known as?
+ac Minimum breaking load
+a Working load limit
+a Maximum proof load
+a Ultimate destructive load
+!
+
+q 38. In a tensile test stress/strain curve, the local necking range is between?
+ac Tensile strength and ultimate breaking stress
+a Yield point and tensile strength
+a Limit of proportionality and Young?s modulus point 
+a Lower limit and fade point
+!
+
+q 39. What is the only method that should be used when rating a multi-leg sling to meet the harmonised European standards?
+a Trigonometric method
+a LEEA user method
+ac Uniform load method
+a The rigger angle method
+!
+
+q 40. The flash line on a shackle indicates that?
+a The shackle has been welded
+a The material used is faulty
+ac The shackle has been drop-forged
+a That the shackle is too old for service 
+!
+
+q 41. Oxides in finished steel can produce a form of brittleness if the steel is then over-strained, followed by resting in warm conditions, the steel may become very brittle. This is known as?
+a Hydrogen embrittlement 
+a Stress induced failure
+ac Strain age embrittlement
+a Oxide breakage
+!
+
+q 42. Which of the following is not a benefit of using a powered lifting machine?
+a Speed of operation
+a Operatives may be remote
+ac Reduced running costs
+a Less fatigue for operatives
+!
+
+q 43. LEEA's COPSULE is a?
+a UK only code of practice
+ac Recommended code of practice 
+a Government issued standard
+a Approved code of practice
+!
+
+q 44. What is the correct sequence of heat treatment?
+ac Heating, soaking and cooling
+a Soaking, heating and cooling
+a Heating, cooling and venting
+a Cooling, tempering and soaking
+!
+
+q 45. What are the principal lifting media used in power-operated hoists?
+ac Short link steel chain and steel wire rope
+a Short link chain and HMPE
+a Long link steel chain and steel wire rope
+a Short link chain and roller chain in ISO606
+!
+
+q 46. What type of crane runs on the top of rails which are part of the crane supporting structure?
+a Slewing Jib crane
+a Underslung crane 
+ac Top running bridge crane
+a Portal crane
+!
+
+q 47. The ability of a material to retain its new dimensions once the stress is removed, is otherwise known as?
+a Brittleness
+ac Plasticity
+a Ductility 
+a Robustness
+!
+
+q 48. When used in pairs of the same capacity, the plane of the eye of each eyebolt must not be inclined to the plane containing the axis of the two eyebolts by more than?
+a 300mm
+a 2.5°
+ac 5°
+a 25mm
+!
+
+q 49. What is the single most important property of materials used in the manufacture of lifting equipment?
+a Price
+a Weight
+ac Strength
+a Toughness
+!
+
+q 50. What are the three primary reasons for assessing and managing risks?
+a Human harm, injury and economic effects
+ac Legal, human harm and economic effects
+a Financial costs, mental health, well-being and legal effects
+a Duty of care, human harm and liability risks
+!
+
+51. Which of the following a measure of how resistant solid matter is to various kinds of permanent shape change when a compression force is applied?
+ac Hardness
+a Viscosity
+a Indentation yield
+a resistance
+!
+
+q 52. the colour of the label of a textile sling manufactured from polyester is?
+a white
+a crimson
+a red 
+ac blue
+!
+
+q 53. Pneumatic hoists would be most commonly found in?
+ac Intrinsically safe areas
+a Laboratory areas 
+a Subsea operations
+a Garages and workshops
+!
+
+q 54. Which of the following is not a natural fibre?
+a Manila 
+a Hemp
+a Sisal
+ac Nylon 
+!
+
+q 55. Which of the following equipment is most suitable for lifting a steel coil?
+a Crane fork
+ac C hook
+a Foundry hook
+a Ratchet jack
+!
+
+q 56. A runway normally supported by existing building structures is known as?
+a A semi-portal crane
+a A tower crane
+ac A built-in runway
+a A jib crane
+!
+
+q 57. An 'A' frame gantry design is available in all capacities, usually up to?
+a 2.5 t
+ac 5 t
+a 60 t
+a 100 t
+!
+
+q 58. What could happen if an over sized wire rope is used in a jaw winch
+a Nothing. This is acceptable as long as it fits
+a The jaws will not grip the rope sufficiently
+ac The rope may become stuck in the winch, putting the winch out of operation
+a The safe working load may be increased
+!
+
+q 59. How is an 'encastred' runway beam is supported?
+a Attached to a swing jib pillar
+ac Built into a structure at both ends
+a Built into a wall at one end only
+a Supported by a steel golapost assembly
+!
+
+q 60. Which of the following cranes may be used to carry a small load on its platform whilst travelling?
+a Deck crane
+ac Yard crane
+a Underslung bridge crane
+a Tower crane
+!
+
+q 61. Higher tensile steels are identified by which grade mark?
+a 8 or T
+ac 4 or M
+a S or W
+a Z or S
+!
+
+q 62. What is the formula for Turning Moment/Momentum of Force?
+a Load(force) / self weight
+a Change in length / original length
+ac Force x distance
+a Distance x load
+!
+
+q 63. Stress is calculated using the following formula?
+a Load x coefficient of utilisation 
+a Stress x effort
+a Stress x load
+ac Load ÷ cross sectional area
+!
+
+q 64. What type of crane has a bottom hoist which runs from the top of the crane house to the bottom tip and controls the radius of the lower blocks?
+a Tower crane
+a Slewing jib crane
+ac Offshore pedestal crane
+a Bridge crane
+!
+
+q 65. What is the factor applied by the user that considers the geometry of a sling assembly in order to obtain the maximum load it may lift for a particular mode of use?
+ac Mode factor
+a Coefficient of utilisation
+a Working load limit
+a Yield point
+!
+
+q 66. The WLL of a 2-leg chain sling used at o-45° using the Uniform Load Method of rating will be?
+ac 1.4 x WLL of a single leg
+a 1.5 x WLL of a single leg
+a 3 x WLL of a single leg
+a 0.7 x WLL of a single leg
+!
+
+q 67. What is calculated with the formula: change in length ÷ original length
+a Cross sectional area 
+ac Strain
+a Stress 
+a Flexibility factor
+!
+
+q 68. Strain age embrittlement is caused by?
+a Lifting accessories over 10 years old
+ac Oxides in finished steel
+a Heat in finished steel
+a Cracks in finished steel
+!
+
+q 69. What type of crane is widely used for lifting operations in the construction industry?
+a Offshore pedestal crane
+ac Tower crane
+a Portal crane
+a Bridge crane
+!
+
+q 70. Which statement applied mainly to the wire rope used in a jaw winch?
+a No lubrication is necessary
+ac One end is tapered and fused
+a It is more susceptible to heat damage
+a It must be built in a Warrington construction
+!
+
+q 71. What type of powered lifting machine is most common used in industry?
+ac Electric hoist 
+a Pneumatic hoist
+a Patient hoist
+a Solar hoist
+!
+
+q 72. Aluminium is typically used to make which of the following items?
+ac Ferrules for wire rope slings
+a Shackles 
+a Eyebolts
+a Brake linings
+!
+
+q 73. Medium carbon steel is otherwise known as?
+a Middle road carbon steel
+a Medium strength steel
+ac Higher tensile steel
+a Mid-range steel
+!
+
+q 74. Which of the following represents the correct sequence of creating 'standards' such as ISO, EN etc.?
+a Discussion, comment, draft, press release
+a Comment, discussion, draft, publication
+ac Discussion, draft, comment, publication
+a Draft, meeting, publication, discussion
+!
+
+q 75. Which shackle is designed to allow three or more items to be joined together?
+ac Bow shackle
+a Dee shackle
+a Architectural shackle
+a Rigging shackle
+!
+
+q 76. 1 metric tonne is approximately how many kilogrammes?
+a 2000 Kg
+ac 1000 Kg
+a 1100 Kg
+a 850 Kg
+!
+
+q 77. Which of the following defined a rule of directive made and maintained by an authority?
+a Regulation
+a Section B
+a Standard
+ac Legislation 
+!
+
+q 78. The WLL of a 4-leg chain sling used at 45-60° using the Uniform Load method of rating will be?
+a 1.1 x WLL of a single leg
+a 4.0 x WLL of a single leg
+a 1.5 x WLL of 2 legs
+ac 1.5 x WLL of a single leg
+!
+
+q 79. What factors mean that offshore containers often have to be specifically designed?
+ac Dynamic sea motions that an offshore container will experience
+a Poor lifting practices in the field
+a Poor weather conditions
+a Irregularities of dynamic rope strength
+!
+
+q 80. A machine has a velocity ratio of 90 and a mechanical advantage of 30. What is its efficiency?
+a 30%
+a 3%
+a 75%
+ac 33%
+!
+
+q 81. In a tensile test stress/strain curve, the plastic extensive range is between?
+a Tensile strength and ultimate breaking stress
+ac Yield point and tensile strength
+a Elastic limit and yield point
+a Base point and break point
+!
+
+q 82. A material's ability to deform under compressive stress is known as?
+a Compressive yield
+a Softening
+a Ductility
+ac Malleability 
+!
+
+q 83. The working coefficient of lifting equipment is otherwise known as?
+a Young's modulus 
+ac The factor of safety
+a The maximum tensile strength
+a The safety edge
+!
+
+q 84. On what type of overhead lifting system might you find a 'switch'?
+ac Light crane system
+a Tower crane
+a Vacuum lifting device
+a Trolley jack
+!
+
+q 85. A test usually used for testing welds is known as the?
+a NWI test
+a Izod test
+a Quirky test 
+ac Bend test
+!
+
+q 86. Which of the following is not a feature of a flat woven webbing sling?
+ac Core
+a Selvedge
+a Stitching
+a Eye protection
+!
+
+q 87. A machine has a velocity ratio of 120 and a mechanical advantage of 30. What is its efficiency?
+a 3%
+a 40%
+a 36%
+ac 25%
+!
+
+q 88. Brass is an alloy of which materials?
+a Copper and tin
+ac Copper and zinc 
+a Bronze and krypton
+a Iron and aluminium
+!
+
+q 89. Bronze is an alloy of?
+a Copper and cotton
+a Tin and lead
+a Iron and manganese
+ac Copper and tin
+!
+
+q 90. What is 'Eddy current Testing'?
+a A test used to locate surface and subsurface defects in many materials including metals, plastics, and wood
+a This test is a fast method of detecting dry areas in long lengths of wire rope
+ac A test used to detect surface and near surface flaws in conductive materials, such as the metals
+a A test used for the detection of the surface cracks and laminations in non-ferrous materials and is primarily used for crack detection
+!
+
+q 91. Vickers, Brinell and Rockwell are all types of?
+a Tensile test
+a Safety hook
+a Mobile crane
+ac Hardness test
+!
+
+q 92. What is the purpose of the small hole in the side of some tapered aluminium ferrules? 
+a It allows fluids and lubricants to be applied 
+a It allows the tail end to be lubricated
+ac It enables the tail end to be inspected
+a It allows for moisture drainage
+!
+
+q 93. Dynamo eyebolts are only suitable for?
+a Transversal loading
+a Trunnion lifting
+a Lifting electric motors
+ac Vertical lifting
+!
+
+q 94. A crane designed to work in confined spaces?
+ac City crane
+a Semi portal crane 
+a Tower crane
+a Truck mounted crane
+!
+
+q 95. Using a manual machine to lift a 50kg load, 5kg of effort is used. What is the mechanical advantage?
+a 0.11
+ac 10
+a 0.1
+a 250
+!
+
+q 96. Using a simple machine to lift a 50Kg load you exert 5kg of effort. What is the mechanical advantage?
+ac 10
+a 5000
+a 100
+a 50000
+!
+
+q 97. The responsibility for health and safety at work rests primarily on the shoulders of whom?
+a Health and safety officers
+a The government
+ac Employees
+a Employers 
+!
+
+q 98. Which mobile crane often requires heavy transport to move them long distances?
+a Lorry loader crane
+a Bridge crane 
+ac Rough terrain crane
+a Portal mounted crane
+!
+
+q 99. What is an 'Interim inspection' of lifting equipment in service?
+a A visual examination of lifting equipment by a store person
+a It is a quick pre-use visual and operational check before using the equipment 
+ac Inspection which focuses on critical components in between thorough examinations 
+a An inspection carried out as a 'spot check' by health and safety officials
+!
+
+q 100. Slewing jib cranes are often used to supplement?
+ac Bridge cranes 
+a Offshore cranes
+a Proof load tests
+a Tower cranes 
 !

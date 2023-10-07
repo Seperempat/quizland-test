@@ -57,7 +57,6 @@
 }
 .answers {
   margin-top: 40px;
-
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   padding: 10px;
@@ -135,6 +134,7 @@
 @media screen and (max-width: 500px) {
   .answers {
     margin-top: 24px;
+    margin-bottom: 60px;
   }
 
   .answer_list {
@@ -240,8 +240,8 @@
 .curLetter {
   background-color: #cbd5e1;
   /* border-radius: 50%; */
-  border-radius: 100px;
-  padding: 8px;
+  border-radius: 50%;
+
   font-size: 18px;
   display: flex;
   justify-content: center;
