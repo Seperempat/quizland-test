@@ -251,7 +251,7 @@ function GameWorld() {
           "Rank" +
           "</th>" +
           "<th class='custom-header' >" +
-          "Team" +
+          "Name" +
           "</th>" +
           "<th class='custom-header' >" +
           "Score" +
@@ -320,8 +320,7 @@ function GameWorld() {
 
     $("#question_area .question").html(
       // stateParams.question + " (" + stateParams.marks + ")"
-      stateParams.question 
-
+      stateParams.question
     );
 
     var answers = stateParams.answers;
