@@ -334,22 +334,21 @@ function GameWorld() {
       var curLetter = String.fromCharCode(65 + i);
       var answerId = i + 1;
 
-      // var $div = $("<div class='answer__container'>", { answer_id: answerId })
-      //   .addClass("answer_list")
-      //   .addClass(`answer_${answerId}`)
-      //   .addClass(`curLetter_${curLetter}`)
-      //   .append("<span/>")
-      //   .text(`${curLetter} ${answers[i]}`);
-
       var $div = $("<div class='answer__container'>", { answer_id: answerId })
         .addClass("answer_list")
         .addClass(`answer_${answerId}`)
-        .append(
-          $("<span/>")
-            .addClass(`curLetter_${curLetter} curLetter`)
-            .text(`${curLetter}`)
-        )
-        .append($("<span/>").text(` ${answers[i]}`));
+        .append("<span/>")
+        .text(`${curLetter}. ${answers[i]}`);
+
+      // var $div = $("<div class='answer__container'>", { answer_id: answerId })
+      //   .addClass("answer_list")
+      //   .addClass(`answer_${answerId}`)
+      //   .append(
+      //     $("<span/>")
+      //       .addClass(`curLetter_${curLetter} curLetter`)
+      //       .text(`${curLetter}`)
+      //   )
+      //   .append($("<span/>").text(` ${answers[i]}`));
 
       $div.click(function () {
         if (
