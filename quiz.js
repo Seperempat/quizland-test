@@ -496,7 +496,7 @@ function Question(){
 	var correctAnswerId = 0;
 	var pic = "";
 	var time = 30;
-	var marks = 5;
+	var marks = 1;
 
 	this.setQuestion = function(pQuestion){
 		question = pQuestion;
