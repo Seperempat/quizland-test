@@ -490,8 +490,8 @@ function Question() {
   var answers = [];
   var correctAnswerId = 0;
   var pic = "";
-  var time = 30;
-  var marks = 5;
+  var time = 8;
+  var marks = 1;
 
   this.setQuestion = function (pQuestion) {
     question = pQuestion;

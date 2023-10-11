@@ -38,7 +38,7 @@ index = [i for i in range(len(questions))]
 random.shuffle(index)
 
 with open("output.txt", 'w') as outputFile:
-    for i in range(50):
+    for i in range(100):
         outputFile.write(questions[index[i]] + '\n')
         for j in range(len(answers[index[i]])):
             outputFile.write(answers[index[i]][j] + '\n')

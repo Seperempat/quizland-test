@@ -243,9 +243,9 @@ a Gantry crane
 !
 
 q 35. Which of the following must be fitted with a shackle to enable correct use?
-ac Dynamic eyebolt
+a Dynamic eyebolt
 a Eyebolt with a link
-a Collared eyebolt
+ac Collared eyebolt
 a Bow nut
 !
 
@@ -354,7 +354,7 @@ a Financial costs, mental health, well-being and legal effects
 a Duty of care, human harm and liability risks
 !
 
-51. Which of the following a measure of how resistant solid matter is to various kinds of permanent shape change when a compression force is applied?
+q 51. Which of the following a measure of how resistant solid matter is to various kinds of permanent shape change when a compression force is applied?
 ac Hardness
 a Viscosity
 a Indentation yield
@@ -679,8 +679,8 @@ a 50000
 q 97. The responsibility for health and safety at work rests primarily on the shoulders of whom?
 a Health and safety officers
 a The government
-ac Employees
-a Employers 
+a Employees
+ac Employers 
 !
 
 q 98. Which mobile crane often requires heavy transport to move them long distances?
